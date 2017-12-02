@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "798957193104",
+    "firebase_url": "https://findafood.firebaseio.com",
+    "project_id": "findafood",
+    "storage_bucket": "findafood.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798957193104:android:0c23134b132b18cb",
+        "android_client_info": {
+          "package_name": "com.example.kiran.recipe4155"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798957193104-h86opeih2asfflce0p54rtrs5ao0lo6d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kiran.recipe4155",
+            "certificate_hash": "e8476744393a06b1bf3fb2a97c3314296020eefc"
+          }
+        },
+        {
+          "client_id": "798957193104-dh91p28iekqpjd3eeuef5ojjmid23loi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGsaTErzbJcks9rf4PSTkGLsqoQBhAQPg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798957193104-dh91p28iekqpjd3eeuef5ojjmid23loi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
